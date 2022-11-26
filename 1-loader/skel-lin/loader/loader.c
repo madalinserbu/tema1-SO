@@ -30,7 +30,7 @@ struct sigaction action;
  * Daca este deja mapata se va trata cu handler-ul default de page fault
  */
 
-static void segv_handler(int signum, siginfo_t *info, void *context) 
+static void segv_handler(int signum, siginfo_t *info, void *context)
 {
 	int i = 0;
 	char *fault = info->si_addr;
