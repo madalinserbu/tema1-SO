@@ -1,4 +1,4 @@
-# tema1-SO
+## tema1-SO
 Șerbu Ovidiu-Mădălin 324CA
 
 ## Introduction
